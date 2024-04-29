@@ -1,0 +1,4 @@
+credentials.json
+vars.tfvars
+.git
+.DS_Store
